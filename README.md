@@ -39,9 +39,10 @@ And There you go, in terms of functionality, I have only reinvented the wheel, s
 * All the basics
 * Castling
 * En Passant
+* Move counter
 * Check counter
 * Time counter
-* Turn on/off music and sounds
+* Turn on/off music & sounds
 
 <br>
 
