@@ -7,7 +7,7 @@
 </h1>
 
 
-<h3 align="center">A local 1v1 chess game I made when I was 16</h3>
+<h3 align="center">A local 1v1 chess game I made when I was 16.</h3>
 
 <br>
 
